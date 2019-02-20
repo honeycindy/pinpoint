@@ -1,6 +1,5 @@
-
-
 ![Pinpoint](web/src/main/webapp/images/logo.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhoneycindy%2Fpinpoint.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhoneycindy%2Fpinpoint?ref=badge_shield)
 
 [![Build Status](https://travis-ci.org/naver/pinpoint.svg?branch=master)](https://travis-ci.org/naver/pinpoint)
 [![codecov](https://codecov.io/gh/naver/pinpoint/branch/master/graph/badge.svg)](https://codecov.io/gh/naver/pinpoint)
@@ -135,3 +134,6 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ```
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhoneycindy%2Fpinpoint.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhoneycindy%2Fpinpoint?ref=badge_large)
